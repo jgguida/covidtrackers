@@ -1,7 +1,7 @@
 <h1 align="center">
     <img alt="Ecoleta" title="#Ecoleta" src="./assets/stamp.png" />
 </h1>
-   ♻️ 
+   
 </p>
 
 
