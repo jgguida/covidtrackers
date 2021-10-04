@@ -21,7 +21,9 @@
 
 ## About
 
-♻️ 
+♻️ http://31.220.60.150/
+
+On this project we try to explore the seasonality and density. Working on dataset to try generate a safe area for our users.
 
 ---
 
